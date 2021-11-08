@@ -17,4 +17,4 @@ FEATURES:
 Add Enquiry, List Enquiry, Add Institute, List Institute, Manage Enquiry Sources, Manage Courses and Necessary Reports and Reports.  
 
 TECHNOLOGY USED:
-Java 8, Spring Boot, Spring Data JPA, MySQL Database, NetBeans IDE, Hibernate JPA Implementation, Maven, MySQL Workbench, JSON, MicroServices.
+Java 8, Spring Boot, Spring Data JPA, MySQL Database, NetBeans IDE, Hibernate JPA Implementation, Maven, MySQL Workbench, JSON, MicroServices, etc.
